@@ -75,6 +75,20 @@ MySQL database stores student information, fee details, and reports.
 ### Fee Summary Report
 ![Fee Summary](Screenshots/20_Fee_Summary_Report.png)
 
+## Validations Implemented
+- Name Validation
+- Age Validation
+- Email Validation
+- Mobile Validation
+
+## How to Run
+
+1. Clone the repository.
+2. Open the project in IntelliJ IDEA.
+3. Configure MySQL database credentials in DBConnection.java.
+4. Run Main.java.
+5. Use the console menu to perform student management operations.
+
 ## Author
 
 Ishaan Bhatnagar
